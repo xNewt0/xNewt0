@@ -15,7 +15,7 @@
   <a href="https://open.spotify.com/user/7li3d5hpigbajvvu545keex8x?si=ae03638c7c8041a6" target="_blank">
     <img alt="Spotify" src="https://img.shields.io/badge/Spotify-Profil-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
-  <img alt="Domain" src="https://img.shields.io/badge/Domain-newt.ct.ws-8b5cf6?style=for-the-badge">
+  <img alt="Domain" src="https://img.shields.io/badge/Domain-tryhackus.vercel.app-8b5cf6?style=for-the-badge">
 </p>
 <p>
   <img alt="Odak" src="https://img.shields.io/badge/Odak-Red%20Team-8b5cf6?style=for-the-badge">
