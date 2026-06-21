@@ -63,4 +63,4 @@
 - **TurkHackTeam (THT):** https://www.turkhackteam.org/uye/xnewt.1028703/
 - **TryHackMe:** https://tryhackme.com/p/thenewt00
 - **Spotify:** https://open.spotify.com/user/7li3d5hpigbajvvu545keex8x?si=ae03638c7c8041a6
-- **Domain:** `newt.ct.ws`
+- **Domain:** `newt.rf.gd`
