@@ -58,9 +58,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:8b5cf6&height=2&section=header" width="100%" />
 
 ## İletişim & Linkler
-- **Discord:** `thenewt00`
+- **Discord:** `.gg/tryhackus`
 - **guns.lol:** https://guns.lol/thenewt
-- **TurkHackTeam (THT):** https://www.turkhackteam.org/uye/xnewt.1028703/
 - **TryHackMe:** https://tryhackme.com/p/thenewt00
-- **Spotify:** https://open.spotify.com/user/7li3d5hpigbajvvu545keex8x?si=ae03638c7c8041a6
+- **Spotify:** https://open.spotify.com/user/7li3d5hpigbajvvu545keex8x
 - **Domain:** `tryhackus.vercel.app`
